@@ -5,4 +5,6 @@ This is the pintersting sample application for
 
 by [Mattan Griffel] (http://mattangriffel.com)
 
+Today is a gift, tomorrow is a myth.
+
 NEVER GIVE UP!
